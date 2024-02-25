@@ -1,0 +1,31 @@
+.creat{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.creatcontaint{
+    width: 20%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+form{
+    width: 80%;
+    
+}
+input{
+    width: 100%;
+    padding: 7px;
+    border-radius:5px ;
+    margin: 5px 0;
+
+}
+input[type="bottom"]{
+    margin-left: 10px;
+}
